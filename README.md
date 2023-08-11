@@ -30,4 +30,4 @@ alteração de ícones, espaçamentos/posicionamentos e alguns nomes de seções
 ✅ A quarta e última seção é a **CONTACT ME**, fornecendo número de contato, e-mail e endereço caso necessário;  
 ✅ Por último o **FOOTER** com os ícones linkados das redes sociais e o nome.  
 
-Confira o resultado nesse ➡️ [LINK] ()
+Confira o resultado nesse ➡️ [LINK] (https://danielwallach.github.io/Project-Portifolio-Maisprati/)
