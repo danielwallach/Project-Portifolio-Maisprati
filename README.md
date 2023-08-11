@@ -8,7 +8,7 @@ Projeto desenvolvido para o projeto final do curso Do Zero ao Primeiro Site ofer
 É um modelo de portfólio para mostrar um pouco de você, mostrando seus trabalhos, suas habilidades, suas redes e formas de contato.
 
 
-*********************
+*********************  
 ## 💻 Tecnologias usadas
 
 **HTML**  
@@ -16,7 +16,7 @@ Projeto desenvolvido para o projeto final do curso Do Zero ao Primeiro Site ofer
 **BOOTSTRAP**
 
 
-********************
+********************  
 ## 📑 Resumo do Projeto
 
 💡 Modifiquei algumas coisas do modelo inicial para dar uma cara pessoal,   
