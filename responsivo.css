@@ -4,6 +4,10 @@
         justify-content: center;
     }
     
+    .navbar {
+        width: 400px;
+    }
+
     #inicio {
         width: 400px;
     }
