@@ -1,0 +1,52 @@
+@media (max-width: 994px) {
+
+    body {
+        justify-content: center;
+    }
+    
+    #inicio {
+        width: 400px;
+    }
+    
+    .heroText p {
+        font-size: 1rem;
+     }
+
+     #sobre, #servicos, #portfolio, #contato {
+        padding: 0;
+        width: 400px;
+     }
+
+   .containerRedes {
+       justify-content: center;
+       margin-bottom: 20px;
+   }
+
+   .topRedes {
+       flex-basis: 15%;
+   }
+   
+   .rodapeRedes {
+       justify-content: center;
+   }
+
+   .rodapeRedes {
+       flex-basis: 15%;
+   }
+   .containerRodape {
+       display: flex; 
+       justify-content: center;
+       padding: 0px;
+   }
+
+   iframe {
+    width: 375px;
+    align-content: center;
+   }
+
+   .rodape {
+    width: 400px;
+   }
+    
+
+}
