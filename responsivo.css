@@ -5,11 +5,11 @@
     }
     
     .navbar {
-        width: 400px;
+        width: var(--resnposive-size);
     }
 
     #inicio {
-        width: 400px;
+        width: var(--resnposive-size);
     }
     
     .heroText p {
@@ -18,7 +18,7 @@
 
      #sobre, #servicos, #portfolio, #contato {
         padding: 0;
-        width: 400px;
+        width: var(--resnposive-size);
      }
 
    .containerRedes {
@@ -49,7 +49,7 @@
    }
 
    .rodape {
-    width: 400px;
+    width: var(--resnposive-size);
    }
     
 
