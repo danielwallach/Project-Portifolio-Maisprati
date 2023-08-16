@@ -22,6 +22,7 @@ Projeto desenvolvido para o projeto final do curso Do Zero ao Primeiro Site ofer
 💡 Modifiquei algumas coisas do modelo inicial para dar uma cara pessoal,   
 como imagem de background, paleta de cores, tipo de fonte, foto pessoal,   
 alteração de ícones, espaçamentos/posicionamentos e alguns nomes de seções passados para o inglês.  
+🍰 **Extra:** Adicionei responsividade ao site para visualização em telas mobile.
 
 ✅ Começa com o **NAVBAR** para navegar por todas as seções do site e abaixo o título com o nome e cargo atual;  
 ✅ A primeira seção é a **ABOUTE ME** contendo a apresentação e breve descrição pessoal;  
