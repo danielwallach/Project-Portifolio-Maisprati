@@ -19,7 +19,7 @@ Projeto desenvolvido para o projeto final do curso Do Zero ao Primeiro Site ofer
 ********************  
 ## 📑 Resumo do Projeto
 
-💡 Modifiquei algumas coisas do modelo inicial para dar uma cara pessoal,   
+💡 **Modificações:** ALterei algumas coisas do modelo inicial para dar uma cara pessoal,   
 como imagem de background, paleta de cores, tipo de fonte, foto pessoal,   
 alteração de ícones, espaçamentos/posicionamentos e alguns nomes de seções passados para o inglês.  
 🍰 **Extra:** Adicionei responsividade ao site para visualização em telas mobile.
